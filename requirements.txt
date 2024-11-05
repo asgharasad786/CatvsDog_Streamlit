@@ -1,3 +1,5 @@
+setuptools
+distlib
 h5py==3.7.0
 keras==2.10.0
 numpy==1.22.0
