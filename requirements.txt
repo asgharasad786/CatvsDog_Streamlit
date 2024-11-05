@@ -1,9 +1,19 @@
+# Specify Python version
+python_version == "3.8"
+
+# Setuptools and distutils for dependency management
 setuptools==65.5.0
 distutils
+
+# Machine Learning and Data Processing Libraries
 h5py==3.7.0
 keras==2.10.0
 numpy==1.22.0
 pandas==1.3.5
 Pillow==9.2.0
+
+# Streamlit version compatible with current setup
 streamlit==1.12.2
+
+# TensorFlow CPU version for compatibility with Python environment
 tensorflow-cpu==2.10.0
