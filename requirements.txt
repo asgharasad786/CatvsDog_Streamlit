@@ -1,4 +1,5 @@
 h5py==3.7.0
+python3-distutils
 keras==2.10.0
 numpy==1.21.1
 pandas== 1.3.5
