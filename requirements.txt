@@ -1,9 +1,9 @@
-setuptools
-distlib
+setuptools==65.5.0
+distutils
 h5py==3.7.0
 keras==2.10.0
 numpy==1.22.0
 pandas==1.3.5
 Pillow==9.2.0
 streamlit==1.12.2
-tensorflow-cpu==2.14.0
+tensorflow-cpu==2.10.0
