@@ -1,5 +1,4 @@
 setuptools==65.5.0
-distutils
 h5py==3.7.0
 keras==2.10.0
 numpy==1.21.1
